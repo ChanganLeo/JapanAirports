@@ -1,2 +1,2 @@
 # JapanAirports
-The airports with runway in Japan
+The airports with runways in Japan
